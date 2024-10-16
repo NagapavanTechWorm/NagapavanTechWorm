@@ -1,10 +1,43 @@
-- 👋 Hi, I’m @NagapavanTechWorm
-- 👀 I’m interested in ...MERN Full Stack Developer, DevOps.
-- 🌱 I’m currently learning ...MERN Full Stack Development.
-- 💞️ I’m looking to collaborate on ...Web Development.
-- 📫 How to reach me ...Email: nagapavan.aofficial@gmail.com
+# 👋 Hi, I'm @NagapavanTechWorm
 
-<!---
-NagapavanTechWorm/NagapavanTechWorm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 Product Developer | Full Stack MERN Developer | DevOps Enthusiast
+
+I'm a passionate Full Stack Developer with a focus on the **MERN stack** (MongoDB, Express, React, Node.js) and an interest in DevOps. Currently, I'm honing my skills to build scalable and efficient web applications while staying updated with the latest technologies.
+
+---
+
+## 👀 What I Do
+- **Product Developer** at **Yuvamytr**, focusing on creating seamless digital experiences.
+- **Full Stack Developer** with expertise in:
+  - Frontend: **HTML**, **CSS**, **JavaScript**, **TailwindCSS**, **TypeScript**
+  - Backend: **Node.js**, **Express.js**
+  - Databases: **PostgreSQL**, **MongoDB**
+- Enthusiastic about **DevOps** and automation practices.
+
+---
+
+## 🌱 What I'm Learning
+- Continuously advancing my knowledge in **MERN Stack Development**.
+- Exploring **cloud technologies** and **DevOps** to improve deployment pipelines and project scalability.
+
+---
+
+## 💬 Let's Collaborate
+I’m open to collaborating on:
+- **Web development projects** that need efficient, clean, and scalable code.
+- **Full stack applications** from conception to deployment.
+
+---
+
+## 📫 How to Reach Me
+Feel free to reach out to me via email: **nagapavan.aofficial@gmail.com**. I’m always excited to discuss new opportunities, ideas, or collaborations.
+
+---
+
+## 🔧 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, TailwindCSS, TypeScript
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MongoDB
+- **Other Tools:** Git, Docker, Jenkins, CI/CD pipelines
+
+Thanks for visiting my profile! 🌟
