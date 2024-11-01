@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer with a focus on the **MERN stack** (MongoD
 ## 👀 What I Do
 - **Product Developer** at **Yuvamytr**, focusing on creating seamless digital experiences.
 - **Full Stack Developer** with expertise in:
-  - Frontend: **HTML**, **CSS**, **JavaScript**, **TailwindCSS**, **TypeScript**
+  - Frontend: **HTML**, **CSS**, **JavaScript**, **TailwindCSS**, **TypeScript**,**React**,**nextjs**
   - Backend: **Node.js**, **Express.js**
   - Databases: **PostgreSQL**, **MongoDB**
 - Enthusiastic about **DevOps** and automation practices.
